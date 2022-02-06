@@ -1,8 +1,9 @@
 function catSays(word) {
     return word;
 } 
+
 function snakeSays() {
-    return "Ш-ш-ш-ш-ш";
+    return "Ашассах шассахgit ";
 }
 
 function animalTalks() {
